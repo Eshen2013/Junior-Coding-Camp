@@ -8,6 +8,7 @@ print(age)
 Variables are containers that are used to store data.
 String - Apple , Banana , Rajesh Hamal
 int - 10 , 12 , 5 , 8
+float - 2.3, 4.6, 41.3
 
 
 # Problem
